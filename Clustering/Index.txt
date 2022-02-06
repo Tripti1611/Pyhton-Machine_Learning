@@ -1,1 +1,5 @@
+Clustering is Unsupervised Machine Learning Technique. It involves grouping sets of similar data (based on defined criteria). It’s useful for segmenting data into several groups and performing analysis on each data set to find patterns.
 
+In this notebook I've tried to implement K-Means algorithms for Clustering.
+
+The K Means Clustering algorithm is a type of unsupervised learning, which is used to categorise unlabelled data, i.e. data without defined categories or groups. The algorithm works by finding groups within the data, with the number of groups represented by the variable K. It then works iteratively to assign each data point to one of K groups based on the features provided.
