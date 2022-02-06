@@ -1,3 +1,5 @@
 Regression is a Supervised Machine Learning Technique. In regression tasks, the machine learning program must estimate – and understand – the relationships among variables. Regression analysis focuses on one dependent variable and a series of other changing variables – making it particularly useful for prediction and forecasting.
 
 In this notebook I've used Linear Regression to train the model and predict the net worth of a person based on their age.
+
+Linear regression is the most basic type of regression. Simple linear regression allows us to understand the relationships between two continuous variables. 
