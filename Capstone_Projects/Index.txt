@@ -1,1 +1,5 @@
+This project includes:
 
+1. Breast Cancer Detection --- Here, Logistic Regression is being used to predict whether a patient has Benign or Malignant Stage Breast Cancer.
+
+2. Spam Mail Detection --- Here, Support Vector Machine(SVM) is used to predict whether a mail is spam or ham (not spam).
